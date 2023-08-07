@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: custom
 title: "A letter to Jack"
 date: 2023-08-08
 ---
