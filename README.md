@@ -1,2 +1,1 @@
 # secretaimeblog
-A secret
